@@ -7,13 +7,13 @@ use Illuminate\Http\Request;
 
 class AdminDashboardController extends Controller
 {
+    protected $view = 'admin::dashboard';
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        # return view('admin::index');
-        return "Hello from admin index";
+        return view($this->view . '.index');
     }
 
     /**
