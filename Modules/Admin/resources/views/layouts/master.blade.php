@@ -19,8 +19,8 @@
         /* Custom styles for sidebar behavior */
         #sidebar {
             transition: all 0.3s;
-            min-width: 250px;
-            width: 250px;
+            min-width: 200px;
+            width: 200px;
             position: fixed;
             height: 100vh;
             z-index: 1030;
@@ -31,7 +31,7 @@
         }
 
         #sidebar.collapsed {
-            left: -250px;
+            left: -200px;
             margin-left: 0;
             min-width: 0;
             width: 0;
@@ -75,8 +75,8 @@
         /* Main content positioning */
         .content-wrapper {
             transition: all 0.3s;
-            margin-left: 250px;
-            width: calc(100% - 250px);
+            margin-left: 200px;
+            width: calc(100% - 200px);
             min-height: 100vh;
             flex-grow: 1;
         }
@@ -90,7 +90,7 @@
         /* Mobile responsive behavior */
         @media (max-width: 768px) {
             #sidebar {
-                left: -250px;
+                left: -200px;
             }
 
             #sidebar.active {
@@ -111,7 +111,7 @@
     <div class="container-fluid p-0 d-flex flex-column min-vh-100">
         <div class="d-flex position-relative">
             <!-- Sidebar -->
-            <div id="sidebar" class="bg-primary">
+            <div id="sidebar" class="bg-dark">
                 @include('admin::components.sidebar')
             </div>
 
@@ -125,11 +125,7 @@
                 </div>
 
                 <!-- Footer -->
-                <footer class="bg-light text-center text-lg-start mt-auto">
-                    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
-                        © 2025 Discover Islam
-                    </div>
-                </footer>
+                @include('admin::components.footer')
             </div>
         </div>
     </div>
