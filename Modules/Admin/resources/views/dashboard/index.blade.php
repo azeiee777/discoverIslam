@@ -19,6 +19,266 @@
                         </div>
                     </div>
                     
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Users</h5>
+                                <p class="card-text">Manage users of the platform.</p>
+                                {{-- <a href="{{ route('users.index') }}" class="btn btn-primary">Go to Users</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    
 
                     <div class="col-md-4">
                         <div class="card">
