@@ -16,7 +16,7 @@
             <a href="#submenu3" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
                 <i class="fas fa-users"></i> <span class="ms-1 d-none d-sm-inline">Users</span>
             </a>
-            <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
+            <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu1">
                 <li class="w-100">
                     <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Admin</span>
                     </a>
@@ -31,6 +31,24 @@
                 </li>
             </ul>
         </li>
+        {{-- Posts --}}
+        <li>
+            <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle text-white">
+                <i class="fas fa-file-text"></i> <span class="ms-1 d-none d-sm-inline">Posts</span>
+            </a>
+            <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu2">
+                <li class="w-100">
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Asked by
+                            users</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Posted by
+                            admin</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
     </ul>
 
     <hr>
@@ -39,7 +57,8 @@
     <div class="dropdown pb-4">
         <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle"
             id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
-            <img src="https://github.com/mdo.png" alt="User" width="30" height="30" class="rounded-circle">
+            <img src="{{ asset('images/default_profile_image.png') }}" alt="User image" width="30" height="30"
+                class="rounded-circle">
             <span class="d-none d-sm-inline mx-1">Admin</span>
         </a>
         <ul class="dropdown-menu dropdown-menu-dark text-small shadow">

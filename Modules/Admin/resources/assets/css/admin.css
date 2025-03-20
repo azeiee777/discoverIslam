@@ -1,0 +1,6 @@
+/* Custom styling for dropdown divider */
+.dropdown-divider {
+margin: 0.25rem 0; /* Decrease margin */
+height: 1px; /* Adjust height */
+background-color: #ddd; /* Optional: change color */
+}

@@ -105,6 +105,24 @@
                 width: 100%;
             }
         }
+
+        /* Custom styling for dropdown divider */
+        .dropdown-divider {
+            margin: 0.25rem 0;
+            /* Decrease margin */
+            height: 1px;
+            /* Adjust height */
+            background-color: #ddd;
+            /* Optional: change color */
+        }
+
+        /* Change background color on hover */
+        .dropdown-item:hover {
+            background-color: #3D3D3D;
+            /* Change to your desired color */
+            color: #fff;
+            /* Optional: change text color on hover */
+        }
     </style>
 
     @stack('styles')
