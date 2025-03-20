@@ -42,6 +42,10 @@
             </a>
             <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu2">
                 <li class="w-100">
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Practice Category</span>
+                    </a>
+                </li>
+                <li class="w-100">
                     <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Asked by
                             users</span>
                     </a>
