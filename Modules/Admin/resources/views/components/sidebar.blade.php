@@ -18,15 +18,19 @@
             </a>
             <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu1">
                 <li class="w-100">
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">All Users</span>
+                    </a>
+                </li>
+                <li class="w-100">
                     <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Admin</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Verified</span>
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">General</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">General</span>
+                    <a href="#" class="nav-link px-0 text-white"> <span class="d-none d-sm-inline">Verified</span>
                     </a>
                 </li>
             </ul>
